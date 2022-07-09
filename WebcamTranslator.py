@@ -6,6 +6,7 @@ import urllib3
 import json
 
 api_key = "BbUqLXH5ZcfsTARK"
+#hello Mama
 
 capture = cv2.VideoCapture("http://192.168.4.205:8080/video")
 while capture.isOpened():
